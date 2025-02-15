@@ -1,3 +1,6 @@
-asteroids\AsteroidsApplication$1.class
+asteroids\Asteroid.class
+asteroids\PolygonFactory.class
 asteroids\AsteroidsApplication.class
+asteroids\AsteroidsApplication$1.class
+asteroids\Character.class
 asteroids\Ship.class
